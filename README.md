@@ -17,5 +17,3 @@ Alexander: No one else could tame Bucephalus. I rode him from Macedon to India.
 ## What I'd improve next
 Keyword matching is simple but has real limits — it can misfire on unrelated phrases, and won't catch questions worded unusually. A natural next step is a proper NLP approach (intent classification) instead of plain substring matching.
 
-## Run it
-Paste the code into a [Google Colab](https://colab.research.google.com) notebook, or run `python chatbot.py` locally with Python 3.
